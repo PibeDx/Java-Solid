@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Solid.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Solid.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Solid_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Solid_main.iml" group="Java-Solid" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Solid_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Solid_test.iml" group="Java-Solid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liskov_substitution/liskov_substitution.iml" filepath="$PROJECT_DIR$/.idea/modules/liskov_substitution/liskov_substitution.iml" group="liskov_substitution" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liskov_substitution/liskov_substitution_main.iml" filepath="$PROJECT_DIR$/.idea/modules/liskov_substitution/liskov_substitution_main.iml" group="liskov_substitution" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liskov_substitution/liskov_substitution_test.iml" filepath="$PROJECT_DIR$/.idea/modules/liskov_substitution/liskov_substitution_test.iml" group="liskov_substitution" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/open_closed/open_closed.iml" filepath="$PROJECT_DIR$/.idea/modules/open_closed/open_closed.iml" group="open_closed" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/open_closed/open_closed_main.iml" filepath="$PROJECT_DIR$/.idea/modules/open_closed/open_closed_main.iml" group="open_closed" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/open_closed/open_closed_test.iml" filepath="$PROJECT_DIR$/.idea/modules/open_closed/open_closed_test.iml" group="open_closed" />

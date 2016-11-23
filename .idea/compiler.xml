@@ -25,6 +25,8 @@
       <module name="com.josecuentas.sr_test" target="1.5" />
       <module name="Java-Solid_main" target="1.5" />
       <module name="Java-Solid_test" target="1.5" />
+      <module name="liskov_substitution_main" target="1.5" />
+      <module name="liskov_substitution_test" target="1.5" />
       <module name="open_closed_main" target="1.5" />
       <module name="open_closed_test" target="1.5" />
       <module name="single_responsibility_bad_main" target="1.5" />

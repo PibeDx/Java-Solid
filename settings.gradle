@@ -1,3 +1,4 @@
 rootProject.name = 'Java-Solid'
 include 'open_closed'
+include 'liskov_substitution'
 
