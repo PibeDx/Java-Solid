@@ -23,6 +23,8 @@
       <module name="com.josecuentas.solid_test" target="1.5" />
       <module name="com.josecuentas.sr_main" target="1.5" />
       <module name="com.josecuentas.sr_test" target="1.5" />
+      <module name="dependency_inversion_main" target="1.5" />
+      <module name="dependency_inversion_test" target="1.5" />
       <module name="interface_segregation_main" target="1.5" />
       <module name="interface_segregation_test" target="1.5" />
       <module name="Java-Solid_main" target="1.5" />

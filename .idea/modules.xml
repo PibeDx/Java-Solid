@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Solid.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Solid.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Solid_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Solid_main.iml" group="Java-Solid" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Solid_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Solid_test.iml" group="Java-Solid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dependency_inversion/dependency_inversion.iml" filepath="$PROJECT_DIR$/.idea/modules/dependency_inversion/dependency_inversion.iml" group="dependency_inversion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dependency_inversion/dependency_inversion_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dependency_inversion/dependency_inversion_main.iml" group="dependency_inversion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dependency_inversion/dependency_inversion_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dependency_inversion/dependency_inversion_test.iml" group="dependency_inversion" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/interface_segregation/interface_segregation.iml" filepath="$PROJECT_DIR$/.idea/modules/interface_segregation/interface_segregation.iml" group="interface_segregation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/interface_segregation/interface_segregation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/interface_segregation/interface_segregation_main.iml" group="interface_segregation" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/interface_segregation/interface_segregation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/interface_segregation/interface_segregation_test.iml" group="interface_segregation" />
